@@ -13,6 +13,15 @@ Application Manager simplifies the process of tracking job applications by manag
 - **Comprehensive State Transition Handling**: Handle transitions between states such as NEW, REVIEW, INTERVIEW, OFFER, and CLOSED.
 - **Robust File I/O Operations**: Reliable file input/output operations for managing application data.
 
+## 🚦 Application States
+
+- **NEW**: Initial application submission.
+- **REVIEW**: Initial screening of the application.
+- **INTERVIEW**: Candidate interview stage.
+- **OFFER**: Job offer consideration.
+- **CLOSED**: Final decision made.
+
+
 ## 🛠 Technologies
 
 | Technology | Version | Purpose                      |
@@ -52,11 +61,5 @@ Clone the repository:
 - **Integration Testing**: File I/O operations.
 - **Performance Testing**: Evaluate efficiency and state transitions.
 
-## 🚦 Application States
 
-- **NEW**: Initial application submission.
-- **REVIEW**: Initial screening of the application.
-- **INTERVIEW**: Candidate interview stage.
-- **OFFER**: Job offer consideration.
-- **CLOSED**: Final decision made.
 
