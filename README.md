@@ -46,3 +46,17 @@ Clone the repository:
    javac ApplicationManagerGUI.java
    java ApplicationManagerGUI
    ```
+## 🧪 Testing Strategy
+
+- **Unit Testing**: Application state transitions, command execution.
+- **Integration Testing**: File I/O operations.
+- **Performance Testing**: Evaluate efficiency and state transitions.
+
+## 🚦 Application States
+
+- **NEW**: Initial application submission.
+- **REVIEW**: Initial screening of the application.
+- **INTERVIEW**: Candidate interview stage.
+- **OFFER**: Job offer consideration.
+- **CLOSED**: Final decision made.
+
