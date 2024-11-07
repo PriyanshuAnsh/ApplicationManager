@@ -50,8 +50,8 @@ Application Manager simplifies the process of tracking job applications by manag
 
 Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/application-manager.git
-   cd application-manager
+   git clone https://github.com/{yourusername}/application-manager.git
+   cd Project1
    javac ApplicationManagerGUI.java
    java ApplicationManagerGUI
    ```
