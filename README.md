@@ -42,4 +42,8 @@ Application Manager simplifies the process of tracking job applications by manag
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/application-manager.git
+   cd application-manager
+   javac ApplicationManagerGUI.java
+   java ApplicationManagerGUI
+
 
