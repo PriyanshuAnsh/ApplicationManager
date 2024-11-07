@@ -45,3 +45,4 @@ Clone the repository:
    cd application-manager
    javac ApplicationManagerGUI.java
    java ApplicationManagerGUI
+   ```
