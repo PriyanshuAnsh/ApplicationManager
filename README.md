@@ -1,17 +1,17 @@
-# Wolf Scheduler: Academic Course Management System
+# Application Manager: Professional Application Tracking System
 
-Wolf Scheduler is a comprehensive Java-based academic course management application designed to streamline course scheduling and conflict resolution for educational institutions.
+Application Manager is a comprehensive Java-based application tracking system designed to streamline the professional application lifecycle, from submission to final decision.
 
 ## 📘 Overview
 
-Wolf Scheduler simplifies the process of course scheduling, ensuring conflicts are detected and managed effectively. This user-friendly application supports course and event management with a graphical interface and robust file I/O capabilities.
+Application Manager simplifies the process of tracking job applications by managing their state, workflow, and transitions. It ensures that the entire process is handled efficiently and effectively, from initial submission to final decision.
 
-## 🚀 Features
+## 🚀 Key Features
 
-- **Dynamic Course and Event Management**: Easily add, update, and remove courses and events.
-- **Advanced Conflict Detection**: Automatically detects and manages scheduling conflicts to prevent overlaps.
-- **Robust File I/O Parsing System**: Reliable parsing for reading and writing data to files.
-- **Intuitive Graphical User Interface**: A user-friendly interface built with Java Swing for easy navigation and management.
+- **Application State Management**: Track the lifecycle of applications from submission to final decision.
+- **Dynamic Workflow Tracking**: Monitor and manage the various stages of the application process.
+- **Comprehensive State Transition Handling**: Handle transitions between states such as NEW, REVIEW, INTERVIEW, OFFER, and CLOSED.
+- **Robust File I/O Operations**: Reliable file input/output operations for managing application data.
 
 ## 🛠 Technologies
 
@@ -21,13 +21,5 @@ Wolf Scheduler simplifies the process of course scheduling, ensuring conflicts a
 | Swing      | -       | User Interface               |
 | JUnit      | 5.x     | Testing Framework            |
 
-## 🚧 Getting Started
 
-### Prerequisites
-- Java 11 or higher
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/wolf-scheduler.git
